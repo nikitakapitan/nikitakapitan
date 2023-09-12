@@ -11,5 +11,5 @@ Here are some of my notable projects:
 4. I implemented the 🐎Pegasus model for 📝Summarization of people's 💬dialogues
 5. Given a user's ❓question, I extracted relevant 📂docs and implemented miniML to answer the question
 6. I implemented 🎓Knowledge distillation to reduce the 🍃model size while maintaining the same performance
-7. I implemented 🤌quantization and ✂️weights pruning to reduce model 💾size and ⌛latency
+7. I implemented 🎯quantization and ✂️weights pruning to reduce model 💾size and ⌛latency
 8. I developed the automatic report for any LLM and any dataset to measure its 📊performance, 💽disk space and ⌛latency
