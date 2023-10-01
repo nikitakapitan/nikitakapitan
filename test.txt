@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The current time is: 2023-10-01 20:02:18
+=======
+The current time is: 2023-09-20 07:48:28
+>>>>>>> d5cc5449bd9b4b932bea8bc4ddc07ba7be371939
