@@ -1,5 +1,10 @@
 ### Hi there 👋 my name is Nick, I am an AI research engineer specializing in Natural Language Processing.
 
+<p align="center">
+  <img src="intro.jpg" alt="Setup widget" width="300" /> <!-- Adjust the width as needed -->
+</p>
+
+
 - 🔭 I’m currently working on LLM benchmark Ecosystem
 - 👯 I’m looking to collaborate on applied NLP to industrial projects
 - ⚡ You can also check more cool visualizations  of my github projects at my website [www.kapitan.uk](https://www.kapitan.uk/)
