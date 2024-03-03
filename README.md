@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Nick, I am an AI research engineer specializing in Natural Language Processing.
 
 <p align="center">
-  <img src="intro.jpg" alt="Setup widget" width="300" /> <!-- Adjust the width as needed -->
+  <img src="intro.png" alt="Setup widget" width="1000" /> <!-- Adjust the width as needed -->
 </p>
 
 
