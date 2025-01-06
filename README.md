@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on LLM benchmark Ecosystem
 - 👯 I’m looking to collaborate on applied NLP to industrial projects
-- ⚡ You can also check more cool visualizations  of my github projects at my website [www.kapitan.uk](https://www.kapitan.uk/)
+- ⚡ You can also check more cool visualizations  of my github projects at my website [www.kapitan.uk](https://www.kapchen.com/)
 
 Here are some of my notable projects:
 - 2019 I implemented from scratch the 🔙backpropagation algorithm and 🤖Transformer architecture for 🔄ENG-GER machine translation.
